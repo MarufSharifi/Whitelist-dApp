@@ -4,3 +4,12 @@
 
 # .env file that involeved the keys
 /hardhat-tutorial/.env
+
+/hardhat-tutorial/coverage
+/hardhat-tutorial/coverage.json
+/hardhat-tutorial/typechain
+/hardhat-tutorial/typechain-types
+
+#Hardhat files
+/hardhat-tutorial/cache
+/hardhat-tutorial/artifacts
