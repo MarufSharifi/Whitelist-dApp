@@ -1,2 +1,6 @@
 # dependencies of hardhat-tutorial project
 /hardhat-tutorial/node_modules
+
+
+# .env file that involeved the keys
+/hardhat-tutorial/.env
